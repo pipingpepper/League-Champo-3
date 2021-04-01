@@ -1,0 +1,19 @@
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.exe
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.deps.json
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.runtimeconfig.json
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.runtimeconfig.dev.json
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.dll
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\ref\gui random.dll
+C:\Users\tncj5\source\repos\gui random\gui random\bin\Debug\net5.0-windows\gui random.pdb
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.csprojAssemblyReference.cache
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui_random.Form1.resources
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui_random.Properties.Resources.resources
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.csproj.GenerateResource.cache
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.AssemblyInfoInputs.cache
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.AssemblyInfo.cs
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.csproj.CoreCompileInputs.cache
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.dll
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\ref\gui random.dll
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.pdb
+C:\Users\tncj5\source\repos\gui random\gui random\obj\Debug\net5.0-windows\gui random.genruntimeconfig.cache
